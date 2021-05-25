@@ -1,6 +1,6 @@
 {
-  "name": "@agustriadji/upload-files",
-  "version": "0.0.4",
+  "name": "hrms-uploadfile",
+  "version": "0.0.5",
   "description": "module upload file HRMS",
   "main": "index.js",
   "dependencies": {
@@ -37,14 +37,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agustriadji/moduleUploadHRMS.git"
+    "url": "git+https://github.com/DzikryFathullah/moduleUploadHRMS.git"
   },
-  "author": "agustriadji",
+  "author": "inovasi Solusi International - HRMS team",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/agustriadji/moduleUploadHRMS/issues"
+    "url": "https://github.com/DzikryFathullah/moduleUploadHRMS/pulls"
   },
-  "homepage": "https://github.com/agustriadji/moduleUploadHRMS/blob/master/README.md",
+  "homepage": "https://github.com/DzikryFathullah/moduleUploadHRMS/blob/master/README.md",
   "keywords": [
     "hrms",
     "upload",

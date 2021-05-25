@@ -106,7 +106,7 @@ module.exports = {
                 .create({
                     headers: bodyFormData.getHeaders(),
                 })
-                .post(uploadConfig.urlStore, bodyFormData)
+                .post(uploadConfig.urlStore, bodyFormData, maxBodyLength = Infinity, maxContentLength = Infinity)
                 .then((response) => {
                     if (response.data.header.status === 200) {
                         try {

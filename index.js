@@ -9,7 +9,7 @@
  const path = require('path');
  
  // eslint-disable-next-line import/no-unresolved
- const uploadConfig = require('../../../config/upload');
+ const uploadConfig = require('../../configUpload/upload');
  
  const { fileTmp } = uploadConfig;
  

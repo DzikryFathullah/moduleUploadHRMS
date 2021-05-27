@@ -143,7 +143,7 @@
              const url = uploadConfig.urlGet;
              const paths = path.resolve(
                  __dirname,
-                 '../../../tmp',
+                 '../../tmp',
                  data.filename,
              );
              const writer = fs.createWriteStream(paths);
